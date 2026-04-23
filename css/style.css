@@ -28,5 +28,9 @@ html {
 }
 
 body {
-    font-family: ;
+    font-family: var(--font-base);
+    font-size: 1rem;
+    color: var(--color-dark);
+    background-color: var(--color-white);
+    line-height: 1.6;
 }
